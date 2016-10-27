@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: Geminigaohe
+username: geminigaohe
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
